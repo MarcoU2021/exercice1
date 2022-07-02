@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*! 
-Theme Name: 31W-cours 
+Theme Name: monTheme
 Author: MarcoU
 Author URI: https://github.com/MarcoU2021/exercice1
 Description: mon premier theme
@@ -384,11 +384,11 @@ body {
 *  styles pour h1,h2,h3,h4,h5mh6 et p
 */
 h1, h2 {
-  color: #666666;
+  color: black;
 }
 
 h2, h3, h4, h5, h6, p {
-  color: #1a1a1a;
+  color: black;
 }
 
 h1 {
@@ -396,7 +396,7 @@ h1 {
 }
 
 hr {
-  background-color: #ccc;
+  background-color: rgb(255, 255, 255);
   border: 0;
   height: 1px;
   margin-bottom: 1.5em;
@@ -479,7 +479,7 @@ input[type=submit] {
   border-color: #ccc #ccc #bbb;
   border-radius: 3px;
   background: #e6e6e6;
-  color: rgba(0, 0, 0, 0.8);
+  color: black;
   line-height: 1;
   padding: 0.6em 1em 0.4em;
   text-decoration: none;
